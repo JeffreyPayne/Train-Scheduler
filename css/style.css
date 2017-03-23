@@ -1,0 +1,10 @@
+body {
+  font: 18px arial, sans-serif;
+  background: #eee;
+}
+
+form {
+  float: right;
+  width: 30%;
+  padding: 20px;
+}
